@@ -1,0 +1,10 @@
+B:\ptek\microbis\src\MicroBus\bin\Debug\MicroBus.dll
+B:\ptek\microbis\src\MicroBus\bin\Debug\MicroBus.pdb
+B:\ptek\microbis\src\MicroBus\obj\Debug\Mibus.csprojResolveAssemblyReference.cache
+B:\ptek\microbis\src\MicroBus\obj\Debug\MicroBus.dll
+B:\ptek\microbis\src\MicroBus\obj\Debug\MicroBus.pdb
+B:\ptek\mibus\bin\Debug\MicroBus.dll
+B:\ptek\mibus\bin\Debug\MicroBus.pdb
+B:\ptek\mibus\obj\Debug\MicroBus.dll
+B:\ptek\mibus\obj\Debug\MicroBus.pdb
+B:\ptek\mibus\obj\Debug\Mibus.csprojResolveAssemblyReference.cache
